@@ -1,3 +1,5 @@
+# Reinforcement Learning: LunarLander & MountainCar
+
 Project repository for a Reinforcement Learning course. 
 
 Course info: https://mycourses.aalto.fi/course/view.php?id=37149 
